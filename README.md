@@ -20,7 +20,7 @@ Hi, I'm [Reyyan Sarıkaya](https://reyyansarikaya.me/), I am a final year studen
 
 
 
-  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
+  <img align="right" alt="GIF" src="https://media.giphy.com/media/l0K4hO8mVvq8Oygjm/source.gif" align="right" width="300" height="200" />
   
 - 💼 [Email](mailto:reyyansarikaya@gmail.com) me to reach me.
 - 💬 Ask me about anything, I am happy to help;
