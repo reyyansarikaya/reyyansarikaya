@@ -15,7 +15,7 @@
 
 <br />
 
-Hi, I'm [Reyyan Sarıkaya](https://reyyansarikaya.me/), I am a final year student of Computer and Geomatics Engineering.
+Hi, I'm Reyyan Sarıkaya, I am a final year student of Computer and Geomatics Engineering.
 
 
 
