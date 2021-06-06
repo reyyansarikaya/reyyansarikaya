@@ -40,4 +40,4 @@ Hi, I'm Reyyan Sarıkaya, I am a final year student of Computer and Geomatics En
 
 📈 My GitHub Stats
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=reyyansarikaya&show_icons=true&theme=gotham" alt="reyyansarikaya" />
+<p align="right"> <img src="https://github-readme-stats.vercel.app/api?username=reyyansarikaya&show_icons=true&theme=gotham" alt="reyyansarikaya" />
