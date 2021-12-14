@@ -15,7 +15,7 @@
 
 <br />
 
-Hi, I'm Reyyan Sarıkaya,  I am currently working as a computer and geomatics engineer at CitySurf - PiriReis Information Technologies.
+Hi, I'm Reyyan Sarıkaya,  I am currently working as computer and geomatics engineer at CitySurf - PiriReis Information Technologies.
 
 
 
