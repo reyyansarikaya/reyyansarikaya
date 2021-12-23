@@ -13,11 +13,10 @@
 
 
 
-<br />
-
+<br>
+<br>
 Hi, I'm Reyyan Sarıkaya,  I am currently working as computer and geomatics engineer at CitySurf - PiriReis Information Technologies.
-
-
+I work in areas such as Python, Image Processing, Network Analysis, Geoprocessing, 3D Modelling. I'm also currently a participant in the Modanisa Full Stack Web developer bootcamp on Patika.dev. The content of this bootcamp is Vue.js, Go, Test Driven Development.
 
 
   <img align="right" alt="GIF" src="https://media.giphy.com/media/l0K4hO8mVvq8Oygjm/source.gif" align="right" width="300" height="200" />
