@@ -8,7 +8,7 @@
 </a>
 
 <a href="https://open.spotify.com/user/reyyan.sarikaya?si=b506deb681ea417c">
-  <img align="left" alt="Reyyan's Spotify" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" />
+  <img align="left" alt="Reyyan's Spotify" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Spotify_logo_without_text.svg/2048px-Spotify_logo_without_text.svg.png" />
 </a>
 
 
@@ -16,7 +16,7 @@
 <br>
 <br>
 I'm Reyyan Sarıkaya,  I am currently working as Computer and Geomatics Engineer at CitySurf - PiriReis Information Technologies.
-I work in areas such as Python, Image Processing, Network Analysis, Geoprocessing, 3D Modelling. I'm also currently a participant in the Modanisa Full Stack Web developer bootcamp on Patika.dev. The content of this bootcamp is Vue.js, Go, Test Driven Development.
+I work in areas such as Python, Image Processing, Network Analysis, Geoprocessing, 3D Modelling. I'm also interested in Golang. Currently, I am continuing my master education on Geographic Information Systems at Istanbul Technical University.
 
 
   <img align="right" alt="GIF" src="https://media.giphy.com/media/l0K4hO8mVvq8Oygjm/source.gif" align="right" width="300" height="200" />
@@ -32,7 +32,6 @@ I work in areas such as Python, Image Processing, Network Analysis, Geoprocessin
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
-
 
 
 📈 My GitHub Stats
