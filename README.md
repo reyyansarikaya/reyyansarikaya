@@ -1,39 +1,73 @@
-### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+### 👩‍💻 Computer & Geomatics Engineer
 
-<a href="https://www.linkedin.com/in/fatmareyyansarikaya/">
-  <img align="left" alt="Reyyan's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-</a>
-<a href="https://medium.com/@reyyansarikaya">
-  <img align="left" alt="Reyyan Sarıkaya | Medium" width="22px" src="https://cdn4.iconfinder.com/data/icons/social-media-2210/24/Medium-512.png" />
-</a>
+Hi! I'm **Reyyan Sarıkaya**, currently working at **Hepsiburada/HepsiPay Technologies**.  
 
-<a href="https://open.spotify.com/user/reyyan.sarikaya?si=b506deb681ea417c">
-  <img align="left" alt="Reyyan's Spotify" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Spotify_logo_without_text.svg/2048px-Spotify_logo_without_text.svg.png" />
-</a>
+I have around 5 years of experience in developing backend services, GIS applications, image processing pipelines, and optimization algorithms using Python and Golang. Recently, I’ve been focusing on CDN technologies and API integrations. I also build frontend applications using React and Vue, and design performance-oriented backend services with Go and Python.
 
+My passion lies in creating user-friendly, high-performance, and maintainable systems. Quality and usability are always my top priorities.
 
+In parallel with my professional career, I'm pursuing a master’s degree in Geographic Information Systems at Istanbul Technical University. My thesis, titled “Spatial Analysis and Optimization of E-Commerce Company’s Parcel Collection Operations: The Case of Esenyurt, Istanbul,” deepens my expertise in spatial data analysis and optimization techniques.
 
-<br>
-<br>
-I'm Reyyan Sarıkaya,  I am currently working as Computer and Geomatics Engineer at CitySurf - PiriReis Information Technologies.
-I work in areas such as Python, Image Processing, Network Analysis, Geoprocessing, 3D Modelling. I'm also interested in Golang. Currently, I am continuing my master education on Geographic Information Systems at Istanbul Technical University.
+---
 
+- 💬 Ask me about **Python, Go, PostGIS, OpenCV, PostgreSQL, ArcGIS, Docker, MongoDB, GitHub Actions**.
+- ⚡ Fun fact: 🎵 Find me on : [🔗 Spotify](https://open.spotify.com/user/reyyan.sarikaya?si=d2a1f42dbf464604)
 
-  <img align="right" alt="GIF" src="https://media.giphy.com/media/l0K4hO8mVvq8Oygjm/source.gif" align="right" width="300" height="200" />
-  
-- 💼 [Email](mailto:reyyansarikaya@gmail.com) me to reach me.
-- 💬 Ask me about anything, I am happy to help;
+---
 
-**Languages and Tools:**  
+### 🌐 Connect with Me
 
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/opencv/opencv.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
+- [🔗 LinkedIn](https://www.linkedin.com/in/fatmareyyansarikaya/)
+- [✍️ Medium](https://medium.com/@reyyansarikaya)
+- [🎧 Spotify](https://open.spotify.com/user/reyyan.sarikaya?si=b506deb681ea417c)
+- [✉️ Email](mailto:reyyansarikaya@gmail.com)
 
+---
 
-📈 My GitHub Stats
+### 🧰 Languages and Tools
+<table>
+  <tr>
+    <td><b>Languages:</b></td>
+    <td><img height="40" src="https://skillicons.dev/icons?i=go,python"/></td>
+  </tr>
+  <tr>
+    <td><b>GIS & Spatial:</b></td>
+    <td><img height="40" src="https://skillicons.dev/icons?i=postgresql,postgis"/></td>
+  </tr>
+  <tr>
+    <td><b>DevOps:</b></td>
+    <td><img height="40" src="https://skillicons.dev/icons?i=docker,githubactions"/></td>
+  </tr>
+  <tr>
+    <td><b>Database:</b></td>
+    <td><img height="40" src="https://skillicons.dev/icons?i=postgresql,mongodb"/></td>
+  </tr>
+  <tr>
+    <td><b>Frontend:</b></td>
+    <td><img height="40" src="https://skillicons.dev/icons?i=html,css"/></td>
+  </tr>
+  <tr>
+    <td><b>IDEs:</b></td>
+    <td><img height="40" src="https://skillicons.dev/icons?i=pycharm,vscode,webstorm"/></td>
+  </tr>
+</table>
 
-<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=reyyansarikaya&show_icons=true&theme=gotham" alt="reyyansarikaya" />
+---
+
+### 📈 GitHub Stats
+<div align="center">
+  <a href="https://github.com/reyyansarikaya">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=reyyansarikaya&show_icons=true&locale=en&layout=compact&theme=tokyonight"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=reyyansarikaya&show_icons=true&locale=en&layout=compact&theme=tokyonight"/>
+  </a>
+</div>
+
+<p align="center">
+  <a href="https://github.com/reyyansarikaya">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=reyyansarikaya&theme=tokyonight"/>
+  </a>
+</p>
+
+---
+
+[reyyansarikaya](https://github.com/reyyansarikaya) © 2025
